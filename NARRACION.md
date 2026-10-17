@@ -40,19 +40,19 @@
 
 **Tiempo:** 0:30 – 0:36  (15 palabras)
 
-    Ruta uno: la hemicelulosa, con ácido suave, — da ciento treinta y dos kilos de furfural.
+    Ruta uno: la hemicelulosa, con ácido suave, — da 132 kilos de furfural.
 
 ## Línea 7 — Ruta 2: Celulosa → Levulínico + Fórmico
 
 **Tiempo:** 0:36 – 0:46  (27 palabras)
 
-    Ruta dos: la celulosa da doscientos quince kilos de ácido levulínico — y noventa y ocho de fórmico. — La mitad recircula; — la otra se vuelve formiato de potasio.
+    Ruta dos: la celulosa da 215 kilos de ácido levulínico — y 98 de fórmico. — La mitad recircula; — la otra se vuelve formiato de potasio.
 
 ## Línea 8 — Ruta 3: Residuo sólido → Ácidos húmicos
 
 **Tiempo:** 0:46 – 0:52  (17 palabras)
 
-    Ruta tres: el sólido restante se oxida con KOH: — trescientos setenta y tres kilos de ácidos húmicos.
+    Ruta tres: el sólido restante se oxida con KOH: — 373 kilos de ácidos húmicos.
 
 ## Línea 9 — Control automatizado: NIR/FTIR + PLC/SCADA
 
